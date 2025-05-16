@@ -1,0 +1,21 @@
+# Ignore Visual Studio junk
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build outputs
+bin/
+obj/
+dist/
+build/
+
+# Ignore Angular dependencies
+HackerNews.Client/node_modules/
+HackerNews.Client/.angular/cache/
+
+# Ignore environment files
+.env
+*.env
+.vs/
